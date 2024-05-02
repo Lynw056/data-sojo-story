@@ -250,27 +250,6 @@ div.flow-caption {
   text-align: center;
 }
 
-#goToTopBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 99;
-  width: 60px;
-  height: 60px;
-  font-size: 20px;
-  border: none;
-  outline: none;
-  background-color:lightblue;
-  color: white;
-  cursor: pointer;
-  border-radius: 1000px;
-}
-
-#goToTopBtn:hover {
-  background-color: #FFD060;
-}
-
 /*mobile and tablet*/
 
 @media screen and (max-width: 768px) {
