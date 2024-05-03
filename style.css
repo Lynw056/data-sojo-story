@@ -250,6 +250,10 @@ div.flow-caption {
   text-align: center;
 }
 
+a {
+  color: black;
+}
+
 /*mobile and tablet*/
 
 @media screen and (max-width: 768px) {
